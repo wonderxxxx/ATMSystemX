@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<accounts> 
+  <accoutnt> 
+    <id>10001</id>  
+    <name>徐敏达</name>  
+    <bankCard>11111111</bankCard>  
+    <password>111111</password>  
+    <balance>5978.0</balance>  
+    <idCardFreeze>0</idCardFreeze> 
+  </accoutnt>  
+  <accoutnt> 
+    <id>10002</id>  
+    <name>徐大雨</name>  
+    <bankCard>22222222</bankCard>  
+    <password>222222</password>  
+    <balance>35533.0</balance>  
+    <idCardFreeze>1</idCardFreeze> 
+  </accoutnt>  
+  <accoutnt> 
+    <id>10003</id>  
+    <name>张泽鹏</name>  
+    <bankCard>33333333</bankCard>  
+    <password>333333</password>  
+    <balance>12100.0</balance>  
+    <idCardFreeze>0</idCardFreeze> 
+  </accoutnt>  
+  <accoutnt> 
+    <id>10004</id>  
+    <name>赵鹏</name>  
+    <bankCard>44444444</bankCard>  
+    <password>444444</password>  
+    <balance>10000.00</balance>  
+    <idCardFreeze>0</idCardFreeze> 
+  </accoutnt>  
+  <accoutnt> 
+    <id>10005</id>  
+    <name>黄俊郎</name>  
+    <bankCard>55555555</bankCard>  
+    <password>555555</password>  
+    <balance>10000.00</balance>  
+    <idCardFreeze>0</idCardFreeze> 
+  </accoutnt>  
+  <accoutnt> 
+    <id>10006</id>  
+    <name>何益帆</name>  
+    <bankCard>66666666</bankCard>  
+    <password>666666</password>  
+    <balance>10000.00</balance>  
+    <idCardFreeze>0</idCardFreeze> 
+  </accoutnt> 
+</accounts>

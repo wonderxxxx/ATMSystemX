@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BankServer:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54f73570-47c0-4d79-a99f-2f9b49739eeb" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ATMServer/src/com/zhu/ClientUI.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1k8c3xzMfiNG3djgab9LQWSnvlb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="构件" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ATMServer/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ATMServer/src/com/zhu/UI" />
+      <recent name="$PROJECT_DIR$/ATMServer/src/com/zhu" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/BankServer/src/com/zhu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.ClientUI">
+    <configuration name="BankServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhu.BankServer" />
+      <module name="BankServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhu.Client" />
+      <module name="ATMServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhu.UI.ClientInitializer" />
+      <module name="ATMServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientUI" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhu.ClientUI" />
+      <module name="ATMServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Request" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhu.Request" />
+      <module name="ATMServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.BankServer" />
+      <item itemvalue="应用程序.Request" />
+      <item itemvalue="应用程序.ClientInitializer" />
+      <item itemvalue="应用程序.ClientUI" />
+      <item itemvalue="应用程序.Client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ClientUI" />
+        <item itemvalue="应用程序.BankServer" />
+        <item itemvalue="应用程序.ClientInitializer" />
+        <item itemvalue="应用程序.Client" />
+        <item itemvalue="应用程序.Request" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54f73570-47c0-4d79-a99f-2f9b49739eeb" name="默认的" comment="" />
+      <created>1605085468585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605085468585</updated>
+      <workItem from="1605321797222" duration="4129000" />
+      <workItem from="1605334088719" duration="467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605323478440">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="222" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605323478440" />
+    <state x="209" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/48.23.1392.877@48.23.1392.877" timestamp="1605170237100" />
+    <state x="552" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605086285829">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state x="552" y="270" key="#com.intellij.fileTypes.FileTypeChooser/50.23.1390.877@50.23.1390.877" timestamp="1605086285829" />
+    <state x="559" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1605236298207">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state x="558" y="184" key="#com.intellij.ide.util.MemberChooser/48.23.1392.877@48.23.1392.877" timestamp="1605228624363" />
+    <state x="559" y="184" key="#com.intellij.ide.util.MemberChooser/50.23.1390.877@50.23.1390.877" timestamp="1605236298207" />
+    <state x="503" y="239" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605334131817">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="503" y="239" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605334131817" />
+    <state x="385" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605250276419">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state x="48" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/48.23.1392.877@48.23.1392.877" timestamp="1605247935962" />
+    <state x="385" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/50.23.1390.877@50.23.1390.877" timestamp="1605250276419" />
+    <state x="483" y="215" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605170351533">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="483" y="215" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/48.23.1392.877@48.23.1392.877" timestamp="1605170351533" />
+    <state x="254" y="24" key="#项目结构" timestamp="1605334151623">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="254" y="24" key="#项目结构/0.0.1920.1050@0.0.1920.1050" timestamp="1605334151623" />
+    <state x="234" y="43" key="#项目结构/50.23.1390.877@50.23.1390.877" timestamp="1605098438050" />
+    <state x="740" y="265" key="FileChooserDialogImpl" timestamp="1605334551087">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605334551087" />
+    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1605332249024">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605332249024" />
+    <state width="1346" height="182" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1605321067172" />
+    <state width="1346" height="182" key="GridCell.Tab.0.bottom/48.23.1392.877@48.23.1392.877" timestamp="1605321337435" />
+    <state width="1346" height="182" key="GridCell.Tab.0.bottom/50.23.1390.877@50.23.1390.877" timestamp="1605320808626" />
+    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1605332249024">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605332249024" />
+    <state width="1346" height="182" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1605321067171" />
+    <state width="1346" height="182" key="GridCell.Tab.0.center/48.23.1392.877@48.23.1392.877" timestamp="1605321337434" />
+    <state width="1346" height="182" key="GridCell.Tab.0.center/50.23.1390.877@50.23.1390.877" timestamp="1605320808625" />
+    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1605332249024">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605332249024" />
+    <state width="1346" height="182" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1605321067171" />
+    <state width="1346" height="182" key="GridCell.Tab.0.left/48.23.1392.877@48.23.1392.877" timestamp="1605321337433" />
+    <state width="1346" height="182" key="GridCell.Tab.0.left/50.23.1390.877@50.23.1390.877" timestamp="1605320808624" />
+    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1605332249024">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605332249024" />
+    <state width="1346" height="182" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1605321067171" />
+    <state width="1346" height="182" key="GridCell.Tab.0.right/48.23.1392.877@48.23.1392.877" timestamp="1605321337435" />
+    <state width="1346" height="182" key="GridCell.Tab.0.right/50.23.1390.877@50.23.1390.877" timestamp="1605320808625" />
+    <state width="1346" height="286" key="GridCell.Tab.1.bottom" timestamp="1605254070510">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state width="1346" height="286" key="GridCell.Tab.1.bottom/47.23.1393.877@47.23.1393.877" timestamp="1605247563128" />
+    <state width="1346" height="286" key="GridCell.Tab.1.bottom/48.23.1392.877@48.23.1392.877" timestamp="1605247645113" />
+    <state width="1346" height="286" key="GridCell.Tab.1.bottom/50.23.1390.877@50.23.1390.877" timestamp="1605254070510" />
+    <state width="1346" height="286" key="GridCell.Tab.1.center" timestamp="1605254070509">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state width="1346" height="286" key="GridCell.Tab.1.center/47.23.1393.877@47.23.1393.877" timestamp="1605247563127" />
+    <state width="1346" height="286" key="GridCell.Tab.1.center/48.23.1392.877@48.23.1392.877" timestamp="1605247645113" />
+    <state width="1346" height="286" key="GridCell.Tab.1.center/50.23.1390.877@50.23.1390.877" timestamp="1605254070509" />
+    <state width="1346" height="286" key="GridCell.Tab.1.left" timestamp="1605254070508">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state width="1346" height="286" key="GridCell.Tab.1.left/47.23.1393.877@47.23.1393.877" timestamp="1605247563125" />
+    <state width="1346" height="286" key="GridCell.Tab.1.left/48.23.1392.877@48.23.1392.877" timestamp="1605247645113" />
+    <state width="1346" height="286" key="GridCell.Tab.1.left/50.23.1390.877@50.23.1390.877" timestamp="1605254070508" />
+    <state width="1346" height="286" key="GridCell.Tab.1.right" timestamp="1605254070509">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state width="1346" height="286" key="GridCell.Tab.1.right/47.23.1393.877@47.23.1393.877" timestamp="1605247563127" />
+    <state width="1346" height="286" key="GridCell.Tab.1.right/48.23.1392.877@48.23.1392.877" timestamp="1605247645113" />
+    <state width="1346" height="286" key="GridCell.Tab.1.right/50.23.1390.877@50.23.1390.877" timestamp="1605254070509" />
+    <state x="254" y="24" key="SettingsEditor" timestamp="1605334256841">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="254" y="24" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605334256841" />
+    <state x="234" y="43" key="SettingsEditor/50.23.1390.877@50.23.1390.877" timestamp="1605086689691" />
+    <state x="280" y="84" key="new project wizard" timestamp="1605085524057">
+      <screen x="50" y="23" width="1390" height="877" />
+    </state>
+    <state x="280" y="84" key="new project wizard/50.23.1390.877@50.23.1390.877" timestamp="1605085524057" />
+    <state x="410" y="213" width="671" height="676" key="search.everywhere.popup" timestamp="1605251905679">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="410" y="213" width="671" height="676" key="search.everywhere.popup/48.23.1392.877@48.23.1392.877" timestamp="1605251905679" />
+    <state x="411" y="213" width="670" height="676" key="search.everywhere.popup/50.23.1390.877@50.23.1390.877" timestamp="1605150210830" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ATM$Test.ic" NAME="Test Coverage Results" MODIFIED="1605178923906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zhu.*</FILTER>
+    </SUITE>
+  </component>
+</project>
